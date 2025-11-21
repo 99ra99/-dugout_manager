@@ -1,0 +1,5 @@
+{
+  "name": "Baseball Commander",
+  "description": "A comprehensive baseball team management and scoring application for PC. Manage rosters, create lineups with visual field positioning, and record game outcomes inning by inning.",
+  "requestFramePermissions": []
+}
